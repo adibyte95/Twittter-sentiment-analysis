@@ -12,8 +12,8 @@ data set has about 50k positive tweets and 40k negative tweets
 Plot of frequency of words against the words <br/>
 <img src="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/freq_words.png" alt="freq_vs_words">
 <br/>
-This graph follows zipf's law
-
+This graph follows zipf's law. Learn more about Zipf's law <a href="https://www.youtube.com/watch?v=qnfxA_mL848">Here</a>
+ 
 ## 2. Preprossing
 To train a classifer first of all we will have to modify the input tweet in a format which can be given to the classifier,this step is called preprossing.<br/>
 It involves several steps<br/>
