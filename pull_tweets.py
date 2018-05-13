@@ -5,7 +5,7 @@ Please Note:
 acess_token and access_token_secret
 2. in position of #Name you will have to provide the appropriate 
 hashtag.
-3. hashtags are stored in tweets.csv file
+3. hashtags are stored in tweets.csv file 
 '''
 
 import tweepy
