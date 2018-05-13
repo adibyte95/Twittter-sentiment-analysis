@@ -5,6 +5,8 @@ Topic - to take twitter tweets and classify the tweet as positive(reflecting pos
 ## 1. DataSet
 I have used a kaggle data set <a href = "https://www.kaggle.com/c/twitter-sentiment-analysis2">Click here</a><br/>
 Training and Testing are done on the provided data set<br/>
+data set has about 50k positive tweets and 40k negative tweets
+<img src = "https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/comparison.png" alt ="pos_neg chart">
 
 ## 2. Preprossing
 To train a classifer first of all we will have to modify the input tweet in a format which can be given to the classifier,this step is called preprossing.<br/>
@@ -30,6 +32,10 @@ however for the purpose of sentiment analysis
 
 ## 2.6 Stemming algorithms
 <br/>
+
+
+
+## 3.Features 
 
 ## Future Work
 1. to use another set of features and classifiers to improve accuracy
