@@ -37,6 +37,7 @@ however for the purpose of sentiment analysis
 <br/>
 
 ## 2.6 Stemming algorithms
+
 <br/>
 
 
@@ -44,9 +45,11 @@ however for the purpose of sentiment analysis
 ## 3.Features 
 
 <br/>
+
 ## 4.Expriments 
 
 <br/>
+
 ## 5. Results
 
 <br/>
