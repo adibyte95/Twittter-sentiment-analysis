@@ -8,6 +8,11 @@ Training and Testing are done on the provided data set<br/>
 data set has about 50k positive tweets and 40k negative tweets
 <br/>
 <img src = "https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/comparison.png" alt ="pos_neg chart">
+<br/>
+Plot of frequency of words against the words 
+<img src="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/freq_words.png" alt="freq_vs_words">
+<br/>
+This graph follows zipf's law
 
 ## 2. Preprossing
 To train a classifer first of all we will have to modify the input tweet in a format which can be given to the classifier,this step is called preprossing.<br/>
