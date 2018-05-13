@@ -6,6 +6,7 @@ Topic - to take twitter tweets and classify the tweet as positive(reflecting pos
 I have used a kaggle data set <a href = "https://www.kaggle.com/c/twitter-sentiment-analysis2">Click here</a><br/>
 Training and Testing are done on the provided data set<br/>
 data set has about 50k positive tweets and 40k negative tweets
+<br/>
 <img src = "https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/comparison.png" alt ="pos_neg chart">
 
 ## 2. Preprossing
