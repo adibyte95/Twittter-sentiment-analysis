@@ -87,9 +87,11 @@ dataset is also provided in the data folder<br/>
 we then used pull_tweets.py file to pull data from the twitter corresponding to a paticular hashtag and then predict the results. Now we have used ME classifier with uni+bi+tri grams features and we have not tried any other models due to lack of processing power<br/>
 we pulled tweets from two hashtags<br/>
 1. SaveDemocracy
-2. ramdaan
+2. ramdaan<br/>
 Results are shown below<br/>
-
+<img src = "https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/ramdaan.png" alt = "ramdan">
+<br/>
+<img src ="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/Save_Democracy.png" alt ="SaveDemocracy">
 <br/>
 ## Note
 I am open to pull requests for further modifications to this project
