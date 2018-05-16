@@ -62,18 +62,20 @@ as features
 <br/>
 
 ## 4.Expriments 
-we have used three model with above mentioned features 
+we have used three model with above mentioned features.Note that all the results shown here are of test results which is obtained by <br/>submitting the output on the test file to kaggle.
+
 <br/>
 
 ## 4.1 Naive bayes Classifier
+<img src ="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/Naive_bayes_classifier.png" alt="naive_bayes_classifier">
 <br/>
 
 ## 4.2 Maximum Entropy Classifier
-<br/>
+<img src ="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/Maximum_entropy_classifier.png" alt="maximum_entropy_classifier">
 
 ## 4.3 XGboost
 <br/>
-
+<img src="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/XGBoost%20Classifier.png" alt ="XGBoost classifier" >
 
 ## 5. Results
 
