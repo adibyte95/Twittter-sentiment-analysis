@@ -86,8 +86,8 @@ we used sentiment140 data set which contains nearly 16 lakhs tweets with positve
 dataset is also provided in the data folder<br/>
 we then used pull_tweets.py file to pull data from the twitter corresponding to a paticular hashtag and then predict the results. Now we have used ME classifier with uni+bi+tri grams features and we have not tried any other models due to lack of processing power<br/>
 we pulled tweets from two hashtags<br/>
-1. SaveDemocracy<br/>
-2. ramdaan<br/>
+1. SaveDemocracy
+2. ramdaan
 Results are shown below<br/>
 
 <br/>
