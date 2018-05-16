@@ -94,9 +94,11 @@ Results are shown below<br/>
 <img src ="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/Save_Democracy.png" alt ="SaveDemocracy">
 
 <br/>
+
 ## Note
 I am open to pull requests for further modifications to this project
 <br/>
+
 ## Future Work
 1. to use another set of features and classifiers to improve accuracy
 2. to use emoji as an feature for sentiment analysis and check how it affects the accuracy of the classifier
