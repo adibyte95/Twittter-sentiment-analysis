@@ -78,7 +78,7 @@ we have used three model with above mentioned features.Note that all the results
 <img src="https://github.com/adibyte95/Twittter-sentiment-analysis/blob/master/charts/XGBoost%20Classifier.png" alt ="XGBoost classifier" >
 
 ## 5. Results
-
+For all of the classifiers shown above we can see that only using unigrams gives the least accuracy where as maximum accuracy is achieved by using Maximum entropy classifier using uni_bi+tri grams as features
 <br/>
 
 ## Future Work
