@@ -62,7 +62,7 @@ as features
 <br/>
 
 ## 4.Expriments 
-we have used three model with above mentioned features.Note that all the results shown here are of test results which is obtained by <br/>submitting the output on the test file to kaggle.
+we have used three model with above mentioned features.Note that all the results shown here are of test results which is obtained by  submitting the output on the test file to kaggle.
 
 <br/>
 
@@ -81,8 +81,19 @@ we have used three model with above mentioned features.Note that all the results
 For all of the classifiers shown above we can see that only using unigrams gives the least accuracy where as maximum accuracy is achieved by using Maximum entropy classifier using uni_bi+tri grams as features
 <br/>
 
+## Real Data
+we used sentiment140 data set which contains nearly 16 lakhs tweets with positve , negative and neutral comments<br/>
+dataset is also provided in the data folder<br/>
+we then used pull_tweets.py file to pull data from the twitter corresponding to a paticular hashtag and then predict the results. Now we have used ME classifier with uni+bi+tri grams features and we have not tried any other models due to lack of processing power<br/>
+we pulled tweets from two hashtags<br/>
+1. SaveDemocracy<br/>
+2. ramdaan<br/>
+Results are shown below<br/>
+
+<br/>
+## Note
+I am open to pull requests for further modifications to this project
+<br/>
 ## Future Work
 1. to use another set of features and classifiers to improve accuracy
 2. to use emoji as an feature for sentiment analysis and check how it affects the accuracy of the classifier
-3. to train the classifer on sentiment140 dataset and used pull_tweets.py script to pull live tweets from twitter and classify them 
-    in real time.
