@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/adibyte95/Twittter-sentiment-analysis.svg)](http://hits.dwyl.io/adibyte95/Twittter-sentiment-analysis)
 # Twittter sentiment analysis
 Topic - to take twitter tweets and classify the tweet as positive(reflecting positive sentiment) and negative(reflecting negative sentiment)
 <br/>
